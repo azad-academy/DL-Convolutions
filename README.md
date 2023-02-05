@@ -1,6 +1,6 @@
 # Understanding Convolution and Feature Extraction in Deep Networks
 
-![demo](conv2d.gif)
+<img src="conv2d.gif"  width="800">
 
 # 1D Convolutions
 
