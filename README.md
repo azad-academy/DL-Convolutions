@@ -1,29 +1,29 @@
 # Understanding Convolution and Feature Extraction in Deep Networks
 
-<img src="conv2d.gif"  width="800">
+<img src="images/conv2d.gif"  width="800">
 
 # 1D Convolutions
 
 
-<img src="conv1d-1.gif"  width="300">
-<img src="conv1d-2.gif"  width="300"> 
+<img src="images/conv1d-1.gif"  width="300">
+<img src="images/conv1d-2.gif"  width="300"> 
 <br>
 
-<img src="conv1d-3.gif"  width="300">
-<img src="conv1d-4.gif"  width="300">
+<img src="images/conv1d-3.gif"  width="300">
+<img src="images/conv1d-4.gif"  width="300">
 
 # 2D Convolutions
 
-<img src="conv2d-1.png"  width="600">
+<img src="images/conv2d-1.png"  width="600">
 
 
 # Feature Extraction
 
-<img src="conv2d-2.png"  width="600">
+<img src="images/conv2d-2.png"  width="600">
 
 # Visualization Tool
 
-<img src="conv2d.gif"  width="600">
+<img src="images/conv2d.gif"  width="600">
 
 ## Requirements
 
