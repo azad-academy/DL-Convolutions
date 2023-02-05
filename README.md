@@ -48,7 +48,7 @@ https://azad-wolf.medium.com/why-convolve-understanding-convolution-and-feature-
 
 On Substack:
 
-https://azadwolf.substack.com/
+https://azadwolf.substack.com/p/why-convolve-understanding-convolution?sd=pf
 
 
 
